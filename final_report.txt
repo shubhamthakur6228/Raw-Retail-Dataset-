@@ -1,0 +1,18 @@
+
+Total Revenue: 45382543
+
+Top Product: Watch
+Top City: Bangalore
+Top Category: Electronics
+
+Top 5 Customers:
+Customer
+Riya     6455606
+Neha     6163440
+John     5770705
+Pooja    5276381
+Sara     5267191
+Name: Revenue, dtype: int64
+
+Unique Cities:
+['Delhi', 'Bangalore', 'Pune', 'Mumbai', 'Hyderabad']
